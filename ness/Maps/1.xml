@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<map>
+  <assets>
+    <tileset src="tiles" size="32" name="main"/>
+  </assets>
+
+  <world>
+    <row>
+    </row>
+  </world>
+</map>
